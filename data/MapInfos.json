@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"メインフィールド","order":1,"parentId":0,"scrollX":1544.7272727272727,"scrollY":1053.8181818181818},
+{"id":2,"expanded":true,"name":"高知県","order":2,"parentId":1,"scrollX":1165.0909090909092,"scrollY":1053.8181818181818},
+{"id":3,"expanded":true,"name":"民家１","order":3,"parentId":2,"scrollX":786.8571428571428,"scrollY":515.1428571428571},
+{"id":4,"expanded":false,"name":"民家1","order":4,"parentId":3,"scrollX":786.8571428571428,"scrollY":515.1428571428571},
+{"id":5,"expanded":true,"name":"自宅","order":5,"parentId":2,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":6,"expanded":false,"name":"２階","order":6,"parentId":5,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":7,"expanded":false,"name":"道具屋","order":11,"parentId":1,"scrollX":786.8571428571428,"scrollY":515.1428571428571},
+{"id":8,"expanded":false,"name":"村の民家1F","order":7,"parentId":2,"scrollX":786.8571428571428,"scrollY":515.1428571428571},
+{"id":9,"expanded":false,"name":"民家1","order":8,"parentId":2,"scrollX":786.8571428571428,"scrollY":515.1428571428571},
+{"id":10,"expanded":true,"name":"宿屋1F","order":9,"parentId":2,"scrollX":786.8571428571428,"scrollY":515.1428571428571},
+{"id":11,"expanded":false,"name":"宿屋2F","order":10,"parentId":10,"scrollX":786.8571428571428,"scrollY":515.1428571428571},
+{"id":12,"expanded":false,"name":"防具屋","order":12,"parentId":1,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":13,"expanded":false,"name":"魔王城3F","order":13,"parentId":1,"scrollX":1056,"scrollY":928},
+{"id":14,"expanded":false,"name":"MAP014","order":14,"parentId":0,"scrollX":832,"scrollY":640}
+]

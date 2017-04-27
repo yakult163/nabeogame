@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":5,"maxLevel":99,"name":"ナベシマ　マコト","nickname":"高知の勇者","note":"","profile":"魔王ガンゾーを倒すために旅をしている勇者"},
+{"id":2,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":5,"maxLevel":99,"name":"カマクラ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":5,"maxLevel":99,"name":"やってぃー","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":5,"maxLevel":99,"name":"ぐっさん","nickname":"","note":"","profile":"光って見える男"}
+]
